@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🎙️ Voice RAG with OpenAI SDK
 
 ### 🎓 FREE Step-by-Step Tutorial 
@@ -69,3 +70,7 @@ streamlit run rag_voice.py
    - Document source tracking
    - Download capability for audio responses
    - Progress tracking for document processing
+=======
+# voice-rag-agent
+An AI-powered Voice RAG Agent that combines voice interaction, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs) to answer user queries using relevant contextual information.
+>>>>>>> ce94e61a63e5a49eb52f6bf96a2f765912cf4798
